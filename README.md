@@ -4,8 +4,7 @@
 
 A modern, feature-rich Python GUI for discovering, configuring, and controlling network-based relay modules, specifically designed for the **Web Relay Control V1.0** hardware.
 
-![Application Screenshot](https://i.imgur.com/r6tM5m7.png)
-*(Replace this with a screenshot of your application in action)*
+![Application Screenshot]([https://i.imgur.com/r6tM5m7.png](https://github.com/peterpt/Web-Relay-Control-Module-App-V1.0/blob/main/app.png)
 
 ## Overview
 
