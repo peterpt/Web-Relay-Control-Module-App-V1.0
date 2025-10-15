@@ -1,0 +1,5 @@
+requests
+netifaces
+Pillow
+beautifulsoup4
+screeninfo
