@@ -89,6 +89,9 @@ This application was specifically developed and tested for the **GeekTeches NC16
         ```
 2.  **Configuration:** The `config.ini` file will be created automatically on the first run. Use the "Find Devices" or "Configure" menus to add and set up your relay modules.
 
+3. This app will automatically detect the number of relays board available according to the firmware installed in module
+   the tests were made in a 16 relay board where module was connected
+   
 ## Acknowledgments
 
 This application was developed through a collaborative process with a user providing detailed specifications, testing, and feedback.
