@@ -1,3 +1,4 @@
+# All icons were downloaded from Flaticon.com and adjusted colours for on off state
 
 ICONS FOLDER 
 place your icons or images in this folder to be used in app .
