@@ -6,6 +6,10 @@ A modern, feature-rich Python GUI for discovering, configuring, and controlling 
 
 ![Application Screenshot](https://github.com/peterpt/Web-Relay-Control-Module-App-V1.0/blob/main/appok.png)
 
+
+## Module
+
+![Module Screenshot](https://github.com/peterpt/Web-Relay-Control-Module-App-V1.0/blob/main/module.png)
 ## Overview
 
 This application provides a robust and user-friendly graphical interface to manage one or more "Web Relay Control V1.0" (GeekTeches NC1601) modules on a network. It was built from the ground up to handle the specific quirks of the hardware and to provide a seamless user experience, from initial discovery to daily operation in a kiosk environment.
