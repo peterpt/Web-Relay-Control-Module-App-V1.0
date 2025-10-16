@@ -67,8 +67,8 @@ This application was specifically developed and tested for the **GeekTeches NC16
 
 1.  **Clone the repository (or download the files):**
     ```bash
-    git clone (https://github.com/peterpt/Web-Relay-Control-Module-App-V1.0)
-    cd relay-control
+    git clone (https://github.com/peterpt/Web-Relay-Control-Module-App-V1.0.git)
+    cd Web-Relay-Control-Module-App-V1.0
     ```
 
 2.  **Install the required libraries:**
